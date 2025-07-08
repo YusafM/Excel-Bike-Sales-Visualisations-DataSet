@@ -56,7 +56,12 @@ This repository contains a comprehensive dataset of global bike sales from 2017 
 
 ## 📊 Visual Insights
 
-### Screenshot: 
+### Screenshot: Revenue VS Profits
+![image](https://github.com/user-attachments/assets/0226a27f-5e3c-461b-abea-d9cd2986389c)
+
+### Screenshot:
+
+### Screenshot:
 
 ## 🛠️ Usage
 You can use this dataset to:
