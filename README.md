@@ -59,7 +59,8 @@ This repository contains a comprehensive dataset of global bike sales from 2017 
 ### Screenshot: Revenue VS Profits
 ![image](https://github.com/user-attachments/assets/0226a27f-5e3c-461b-abea-d9cd2986389c)
 
-### Screenshot:
+### Screenshot: Product Revenue By Country
+![image](https://github.com/YusafM/Excel-Bike-Sales-Visualisations-DataSet/blob/main/Screenshot%202025-07-08%20113414.png)
 
 ### Screenshot:
 
