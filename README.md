@@ -62,7 +62,8 @@ This repository contains a comprehensive dataset of global bike sales from 2017 
 ### Screenshot: Product Revenue By Country
 ![image](https://github.com/YusafM/Excel-Bike-Sales-Visualisations-DataSet/blob/main/Screenshot%202025-07-08%20113414.png)
 
-### Screenshot:
+### Screenshot: Sum of Revenue By Age Group
+![image](https://github.com/YusafM/Excel-Bike-Sales-Visualisations-DataSet/blob/main/Screenshot%202025-07-08%20113426.png)
 
 ## 🛠️ Usage
 You can use this dataset to:
