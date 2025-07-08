@@ -54,6 +54,10 @@ This repository contains a comprehensive dataset of global bike sales from 2017 
 | 2017-01-01 00:00:00 |     1 | January |   2017 |             39 | Adults (35-64)       | M                 | United States | Washington       | Bikes              | Road Bikes     | Road-550-W Yellow, 38  |                2 |         713 |         1120 |      814 |   1426 |      2240 |
 | 2017-01-01 00:00:00 |     1 | January |   2017 |             42 | Adults (35-64)       | M                 | United States | California       | Bikes              | Road Bikes     | Road-750 Black, 44     |                2 |         344 |          540 |      392 |    688 |      1080 |
 
+## 📊 Visual Insights
+
+### Screenshot: 
+
 ## 🛠️ Usage
 You can use this dataset to:
 - Perform exploratory data analysis (EDA)
